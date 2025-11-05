@@ -3,7 +3,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import list from '../../public/list.json'
-import Cards from './cards';
+import Cards from './Cards';
 const Freebook = () => {
     const filterData = list.filter((data) => data.category === "free")
     console.log(filterData)
@@ -43,7 +43,7 @@ const Freebook = () => {
     };
     return (
         <>
-            <div className='max-w-screen-2xl container mx-auto md:px-20 px-4'>
+            <div className='bg-gray-100 dark:bg-gradient-to-b dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 text-gray-900 dark:text-white max-w-screen-2xl container mx-auto md:px-20 px-4'>
                 <div>
                     <h1 className='font-semibold text-xl pb-4'>Free Offered Books</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti dolor architecto voluptatum quaerat! Corrupti libero amet, molestiae reprehenderit magni aperiam? Iusto ea hic exercitationem odit?</p>

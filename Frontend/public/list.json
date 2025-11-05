@@ -1,106 +1,203 @@
 [
-    {
-        "id":1,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":0,
-        "category":"free",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":2,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":0,
-        "category":"free",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":3,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":0,
-        "category":"free",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":4,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":0,
-        "category":"free",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":5,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":0,
-        "category":"free",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":6,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":0,
-        "category":"free",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":7,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":0,
-        "category":"free",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":8,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":500,
-        "category":"paid",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":9,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":500,
-        "category":"paid",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":10,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":500,
-        "category":"paid",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":11,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":500,
-        "category":"paid",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":12,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":500,
-        "category":"paid",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    },
-    {
-        "id":13,
-        "name":"Story-Book",
-        "title":"Lorem ipsum dolor sit amet consectetur adipisicing",
-        "price":500,
-        "category":"paid",
-        "image":"https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg?t=st=1736268645~exp=1736272245~hmac=7ad88ca0f50c243f41e782f1a86a42bf0be698251ca049e42a58de21db7f1989&w=740"
-    }
+  {
+    "id": 1,
+    "name": "The Great Adventure",
+    "title": "A thrilling journey through uncharted lands",
+    "price": 750,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/adventure-book-concept_23-2148665000.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mindful Moments",
+    "title": "Discover peace through meditation and awareness",
+    "price": 420,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/meditation-book-concept-illustration_114360-11850.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Coding for Beginners",
+    "title": "Learn programming from scratch with real examples",
+    "price": 680,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/programming-book-concept_23-2148765489.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Whispers of the Forest",
+    "title": "An enchanting tale of nature and mystery",
+    "price": 560,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/forest-story-book-concept_23-2148785640.jpg"
+  },
+  {
+    "id": 5,
+    "name": "History Unfolded",
+    "title": "Explore the great civilizations of the past",
+    "price": 800,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/history-book-concept_23-2148654700.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cooking Made Simple",
+    "title": "Easy and delicious recipes for everyday meals",
+    "price": 450,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/cookbook-concept_23-2148664775.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Dream Catcher",
+    "title": "A fantasy novel full of magic and wonder",
+    "price": 620,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/fantasy-book-concept_23-2148664989.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Secrets of the Universe",
+    "title": "Unravel the mysteries of space and time",
+    "price": 950,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/space-book-concept_23-2148654695.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Learn Guitar in 30 Days",
+    "title": "Step-by-step guide to mastering guitar chords",
+    "price": 390,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/music-book-concept_23-2148664970.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Startup Guide",
+    "title": "Build your business from idea to reality",
+    "price": 850,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/business-book-concept_23-2148654705.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Poetry of the Heart",
+    "title": "A collection of poems on love and life",
+    "price": 310,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/poetry-book-concept_23-2148664978.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Journey to the Stars",
+    "title": "A young astronaut’s story of discovery",
+    "price": 700,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/science-fiction-book-concept_23-2148654698.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Story-Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing",
+    "price": 500,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/book-with-lighbulb-cartoon-vector-icon-illustration-object-education-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4009.jpg"
+  },
+  {
+    "id": 14,
+    "name": "The Art of Mindset",
+    "title": "Train your brain for success and happiness",
+    "price": 640,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/mindset-book-concept_23-2148664995.jpg"
+  },
+  {
+    "id": 15,
+    "name": "The Lost Kingdom",
+    "title": "An ancient legend comes to life",
+    "price": 590,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/adventure-novel-book-concept_23-2148664980.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Digital Marketing 101",
+    "title": "Master the fundamentals of online promotion",
+    "price": 920,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/digital-marketing-book-concept_23-2148664990.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Fitness Formula",
+    "title": "Transform your body with expert workout plans",
+    "price": 570,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/fitness-book-concept_23-2148665005.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Art & Soul",
+    "title": "Discover creativity through painting and color",
+    "price": 480,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/art-book-concept_23-2148664985.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Gardening for Everyone",
+    "title": "Grow your own food and flowers with ease",
+    "price": 430,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/gardening-book-concept_23-2148664975.jpg"
+  },
+  {
+    "id": 20,
+    "name": "The Future of AI",
+    "title": "How artificial intelligence is changing our world",
+    "price": 990,
+    "category": "paid",
+    "image": "https://img.freepik.com/free-vector/artificial-intelligence-book-concept_23-2148664999.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Open Minds",
+    "title": "A beginner’s guide to creative thinking and innovation",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/open-book-idea-concept_23-2148664972.jpg"
+  },
+  {
+    "id": 22,
+    "name": "The Free Spirit",
+    "title": "Explore the beauty of freedom through inspiring stories",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/freedom-book-concept_23-2148664968.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Basics of Photography",
+    "title": "Learn how to capture moments like a pro",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/photography-book-concept_23-2148664987.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Healthy Living Guide",
+    "title": "Simple habits for a balanced and happy life",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/health-book-concept_23-2148664991.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Travel the World",
+    "title": "Discover the most beautiful destinations on Earth",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/travel-book-concept_23-2148665001.jpg"
+  }
 ]
+

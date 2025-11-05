@@ -8,7 +8,7 @@ const Singup = () => {
     const onSubmit = data => console.log(data);
 
     return (
-        <div id="" className="flex h-screen justify-center items-center">
+        <div id="" className="flex h-screen justify-center items-center dark:text-black">
             <div className="modal-box">
                 <form onSubmit={handleSubmit(onSubmit)} method="dialog">
                     {/* if there is a button in form, it will close the modal */}

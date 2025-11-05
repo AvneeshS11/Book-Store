@@ -1,12 +1,12 @@
 import React from 'react'
 import list from '../../public/list.json'
-import Cards from './cards'
+import Cards from './Cards'
 import {Link} from 'react-router-dom'
 const Courses = () => {
   return (
     <>
-      <div className='max-w-screen-2xl container  mx-auto md:px-20 px-4'>
-        <div className='mt-28 justify-center items-center text-center '>
+      <div className='bg-gray-100 dark:bg-gradient-to-b dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 text-gray-900 dark:text-white max-w-screen-2xl container  mx-auto md:px-20 px-4'>
+        <div className='pt-28 justify-center items-center text-center '>
           <h1 className='text-2xl md:text-4xl'>We're delighted to have you <span className='font-semibold text-pink-500'>Here!:)</span></h1>
           <p className='mt-10'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut nostrum sequi aut porro, quae corporis eligendi, laboriosam doloribus facilis perspiciatis beatae autem velit maxime culpa dignissimos? Animi quibusdam, qui assumenda asperiores odio ipsa quasi delectus rerum laborum placeat eveniet voluptatum quidem saepe rerum odio vero, possimus amet dolorem et laborum necessitatibus corrupti nulla sed hic natus consectetur sequi?</p>
           <Link to={'/'}>

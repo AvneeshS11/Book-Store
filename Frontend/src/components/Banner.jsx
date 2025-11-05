@@ -3,7 +3,7 @@ import banner from '../../public/Banner.png'
 const Banner = () => {
     return (
         <>
-            <div className='max-w-screen-2xl container mt-8 mx-auto md:px-20 px-4 flex flex-col md:flex-row'>
+            <div className='bg-gray-100 dark:bg-gradient-to-b dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 text-gray-900 dark:text-white max-w-screen-2xl container pt-10 pb-4 mx-auto md:px-20 px-4 flex flex-col md:flex-row'>
                 <div className='w-full order-2 md:order-1 md:w-1/2 mt-{0px} md:mt-32'>
                     <div className='space-y-12 text-xl'>
                         <h1 className='text-4xl font-bold'>Hello, welcome here to learn something <span className='text-pink-500'>new everday!!!</span></h1>
@@ -24,7 +24,7 @@ const Banner = () => {
                     </div>
                         <button className="btn mt-6 btn-secondary">Secondary</button>
                 </div>
-                <div className='w-full order-1 md:w-1/2 '>
+                <div className='w-full order-1 md:w-1/2 flex justify-center'>
                 <img src={banner} alt="" className='h-[40vh] md:h-[100%]' />
                 </div>
             </div>
