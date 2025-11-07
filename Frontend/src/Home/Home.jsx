@@ -7,9 +7,11 @@ const Home = () => {
   return (
     <>
         <Navbar />
-        <Banner />
-        <Freebook />
-        <Footer />
+        <div className='md:w-full mx-auto overflow-x-hidden'>
+          <Banner />
+          <Freebook />
+          <Footer />
+        </div>
     </>
   )
 }
