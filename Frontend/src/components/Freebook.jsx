@@ -50,7 +50,7 @@ const Freebook = () => {
 
                 </div>
  
-                <div >
+                <div className='p-5 md:p-0'>
                     <Slider {...settings}>
                         {filterData.map((item)=>{
                             return(<Cards item={item} key={item.id}/>)
